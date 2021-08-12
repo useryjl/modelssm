@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Java-EE/Java-EE.iml" filepath="$PROJECT_DIR$/../Java-EE/Java-EE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Java-se-practise/Java-se-practise.iml" filepath="$PROJECT_DIR$/../Java-se-practise/Java-se-practise.iml" />
+    </modules>
+  </component>
+</project>
